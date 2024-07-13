@@ -11,7 +11,11 @@ Tools used: Jira, Zephyr Squad.
 The below stories were created in Jira and describe the functional specifications of the "**Account**" module, for which the final project is performed upon.
 
 **[MAG-2](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/story1.pdf)**
+
+
 **[MAG-3](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/story2.pdf)**
+
+
 **[MAG-4](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/story3.pdf)**
 
 ![storyuri](https://github.com/user-attachments/assets/011a7847-487c-47f6-99c8-95f6901fbfb8)
@@ -225,8 +229,14 @@ Test cases are executed on the created test Cycle summary: Shein account managem
 Bugs have been created based on the failed tests.**[Test cases](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/excel%20testcase.csv)**
 
 The complete bug reports can be found here:
-<p>![MAG-14](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/bugreport1.pdf)<br>
-![MAG-15](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/bugreport2.pdf)</p>
+
+
+  **[MAG-14](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/bugreport1.pdf)**
+
+  
+  **[MAG-15](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/bugreport2.pdf)**
+
+
 
 
 
