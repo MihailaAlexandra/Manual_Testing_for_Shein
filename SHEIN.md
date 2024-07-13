@@ -226,6 +226,10 @@ The following elements are needed to be ready before the test execution phase be
 <h3>1.6. Test Execution </h3>
 
 Test cases are executed on the created test Cycle summary: Shein account management functionalities .
+
+![cyclesummary](https://github.com/user-attachments/assets/0fc1ed36-12a0-4cd1-a378-ece5d16d7dbf)
+
+
 Bugs have been created based on the failed tests.**[Test cases](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/excel%20testcase.csv)**
 
 The complete bug reports can be found here:
