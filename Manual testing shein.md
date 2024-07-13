@@ -10,18 +10,19 @@ Tools used: Jira, Zephyr Squad.
 
 The below stories were created in Jira and describe the functional specifications of the "**Account**" module, for which the final project is performed upon.
 
-**[MAG-2](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/story1.pdf)**
-**[MAG-3](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/story2.pdf)**
-**[MAG-4](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/story3.pdf)**
+**[MAG-2](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/story1.pdf)**
+**[MAG-3](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/story2.pdf)**
+**[MAG-4](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/story3.pdf)**
 
-![storyuri](https://github.com/user-attachments/assets/9233b6c6-8317-4f30-aa91-d159eec07af9)
+![storyuri](https://github.com/user-attachments/assets/011a7847-487c-47f6-99c8-95f6901fbfb8)
 
 
 
 
 **Here you can find the release that was created for this project:**
 
-![release](https://github.com/user-attachments/assets/b57b4593-0973-4d4a-b941-626244e3012f)
+![release](https://github.com/user-attachments/assets/73df664b-25dd-421c-bf26-e7d95831b241)
+
 
 
 
@@ -34,7 +35,7 @@ The test process was performed based on the standard test process as described b
 The Test Plan is designed to describe all details of testing for account module from the Shein application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing,and the risks associated with the plan. The test plan that was created for this project can be found here
-**[TestPlan](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/testplan..pdf)**
+**[TestPlan](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/testplan..pdf)**
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 <ul>
@@ -128,8 +129,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 <li>Weekly reviews and audits of test artifacts, including test cases, test plans, and test results, to ensure compliance with quality standards and best practices.</li>
 </ul>
 
-![testmetrics](https://github.com/user-attachments/assets/5c165d17-2a56-4b08-b64a-707e2944725e)
-![testmetrics2](https://github.com/user-attachments/assets/329b4532-e334-459e-af61-ded93632b240)
+![testmetrics](https://github.com/user-attachments/assets/37fe2e16-6cf9-438e-b5f0-90571e4559ff)
+![testmetrics2](https://github.com/user-attachments/assets/8bc01db4-1d9f-4708-98ae-87d86ed44574)
+
 
 
 <h3> 1.3 Test Analysis </h3>
@@ -188,7 +190,7 @@ The following test conditions were found:
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. 
 The test cases can be accessed here 
-[TestSteps](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/teststeps.pdf)
+**[TestSteps](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/teststeps.pdf)**
 
 <h3>1.5 Test Implementation</h3>
 
@@ -223,8 +225,9 @@ Test cases are executed on the created test Cycle summary: Shein account managem
 Bugs have been created based on the failed tests.**[Test cases](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/excel%20testcase.csv)**
 
 The complete bug reports can be found here:
-[MAG-14](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/bugreport1.pdf)
-[MAG-15](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/bugreport2.pdf)
+<p>![MAG-14](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/bugreport1.pdf)<br>
+![MAG-15](https://github.com/MihailaAlexandra/SHEIN/blob/d3b59c9aa88aaae0d99e519197084ce8228616b2/bugreport2.pdf)</p>
+
 
 
 
@@ -246,18 +249,22 @@ After confirming that the exit criteria have been successfully met, as detailed 
 This version clarifies that the decision to move forward is based on satisfying the exit criteria and aligns with the recommendation from the Testing team.
 
 <h4>The traceability matrix</h4> was generated and can be found here:
-![matricetrasabilitatee](https://github.com/user-attachments/assets/d6d8b578-a955-46ec-87c5-f75f52e704e3)
+
+![matrix](https://github.com/user-attachments/assets/a306d58b-0985-4451-aa16-8c11c76e60e3)
 
 
 
-**[Matrice de trasabilitate Excel file](https://github.com/MihailaAlexandra/Shein/blob/main/documente/matricetrasabilitate.xlsx)**
+
+
+**[Matrice de trasabilitate Excel file](https://github.com/MihailaAlexandra/SHEIN/blob/cb938db62fa14c50937b2f925399641c2ac8008a/excel%20testcase.csv)**
 
 
 
 
 
 **Test execution chart** was generated and can be found below. 
-![Dashboardpoza](https://github.com/user-attachments/assets/2403c5f0-e9f8-4d9c-8dee-bc201e33532c)
+![Dashboardpoza](https://github.com/user-attachments/assets/73c57d30-260a-4f3f-adf0-07782b62d20d)
+
 
 
 
