@@ -223,13 +223,8 @@ Test cases are executed on the created test Cycle summary: Shein account managem
 Bugs have been created based on the failed tests.**[Test cases](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/excel%20testcase.csv)**
 
 The complete bug reports can be found here:
-<<<<<<< HEAD
-- [Bug report 1]()
-- [Bug report 2]()
-=======
 [MAG-14](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/bugreport1.pdf)
 [MAG-15](https://github.com/MihailaAlexandra/Manual_testing_jira_shein/blob/main/bugreport2.pdf)
->>>>>>> 6d95a4c1a2eb9034b56ea96c6d6b5e27627d9ae2
 
 
 
