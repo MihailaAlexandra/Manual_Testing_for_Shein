@@ -1,0 +1,270 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Outward issue link (Tests),Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Asset type),Custom field (Asset type),Custom field (Backout plan),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Department),Custom field (Department),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Impact),Custom field (Implementation plan),Custom field (Investigation reason),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Pending reason),Custom field (Planned end),Custom field (Planned start),Custom field (Priority),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Custom field (Root cause),Satisfaction rating,Custom field (Satisfaction date),Custom field (Severity),Custom field (Source),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test plan),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Time to review normal change),Custom field (Total forms),Custom field (Urgency),Custom field (Vulnerability),Custom field (Work category),Custom field (Workaround),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent summary,Status Category,Status Category Changed
+Verify if user can delete the account.,MAG-51,17446,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,23/Apr/24 11:38 AM,23/Apr/24 7:20 PM,12/Jul/24 9:16 PM,23/Apr/24 11:38 AM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@61429954,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:038d,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_911_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,23/Apr/24 11:38 AM
+Verify if user can check privacy & cookie policy from “policy” section.,MAG-50,16618,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 1:45 PM,23/Apr/24 1:43 PM,12/Jul/24 9:16 PM,15/Mar/24 1:49 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Policy"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2f21ade8,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzzi,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_235207_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:49 PM
+Verify if you can check return policy from “policy” section.,MAG-49,16617,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 1:43 PM,23/Apr/24 1:43 PM,12/Jul/24 9:16 PM,15/Mar/24 1:49 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Policy"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d50359c,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzz,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_344409_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:49 PM
+Verify if user can check  shipping info from “policy” section.,MAG-48,16616,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:51 PM,23/Apr/24 1:42 PM,12/Jul/24 9:16 PM,15/Mar/24 1:41 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Policy"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@55e2e02e,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzy,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_2989576_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:41 PM
+ Verify if user can check contact preferences from “other services” section.,MAG-47,16615,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:49 PM,23/Apr/24 1:42 PM,12/Jul/24 9:16 PM,15/Mar/24 1:41 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Other services"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@745f3c1c,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzx,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_3106853_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:41 PM
+Verify if user can check &use share&earn from “other services” section.,MAG-46,16614,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:46 PM,23/Apr/24 1:42 PM,12/Jul/24 9:16 PM,15/Mar/24 1:41 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Other services"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@45e296e1,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzv,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_3250242_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:41 PM
+Verify if user can check survey center from “other services” section.,MAG-45,16613,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:45 PM,23/Apr/24 1:41 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Other services"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@78f7c996,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzr,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_3328660_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+Verify if user can check free trial center from from “other services” section.,MAG-44,16612,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:39 PM,23/Apr/24 1:41 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Other services"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@39ac60d9,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzzi,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_3685340_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+Verify if user can check & use service records from “customer service” section.,MAG-43,16611,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:35 PM,23/Apr/24 1:41 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Customer service"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@218d8a15,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzz,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_3929731_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+"Verify if user can check ""my message"" from “customer service” section.",MAG-42,16610,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,15/Mar/24 12:29 PM,23/Apr/24 1:40 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""Customer service"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3e8ad637,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzy,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_4244056_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+Verify if user can check follow from “my concern” section.,MAG-41,16591,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:46 PM,23/Apr/24 1:40 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My concern"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@693dfbf1,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzx,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68046649_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+Verify if user can check recently viewed from “my concern” section.,MAG-40,16590,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:44 PM,23/Apr/24 1:40 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My concern"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@640f94b0,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzv,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68143330_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+ Verify if user can check wishlist from “my concern” section.,MAG-39,16589,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:41 PM,23/Apr/24 1:39 PM,12/Jul/24 9:16 PM,15/Mar/24 1:40 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My concern"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@42adf6ad,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzr,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68297584_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:40 PM
+ Verify if user can check returned orders from “my orders”  field.,MAG-38,16588,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:40 PM,23/Apr/24 1:39 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My orders"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@43762ea7,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzzi,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68393258_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+Verify if user can check review orders from “my orders”  field.,MAG-37,16587,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:38 PM,23/Apr/24 1:39 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My orders"" section.
+
+ ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@317aa777,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzz,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68469558_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+Verify if user can check shipped orders from “my orders”  field.,MAG-36,16586,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:37 PM,23/Apr/24 1:38 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My orders"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6d4b1a83,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzy,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68556098_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+ Verify if user can check processing orders from “my orders”  field.,MAG-35,16585,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:35 PM,23/Apr/24 1:38 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My orders"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7b9f4dce,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzx,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68643615_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+Verify if user can check unpaid orders from “my orders”  field.,MAG-34,16584,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:33 PM,23/Apr/24 1:38 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My orders"" section..",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@58f5039f,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzv,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68730611_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+Verify if user can check all orders from “my orders”  field.,MAG-33,16583,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:31 PM,23/Apr/24 1:16 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My orders"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@55fdbdf6,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzr,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_68839050_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+ Verify if user can use gift card from “my assets” section.,MAG-32,16582,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 6:15 PM,23/Apr/24 1:15 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My assets"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5b88bf5b,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzzi,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_69824003_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+Verify if user can use wallet from “my assets” section.,MAG-31,16581,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 5:56 PM,23/Apr/24 1:15 PM,12/Jul/24 9:16 PM,15/Mar/24 1:39 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My assets"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@62f2018e,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzz,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_70978781_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:39 PM
+Verify if user can check points from “my assets” section. ,MAG-30,16580,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 5:52 PM,23/Apr/24 1:14 PM,12/Jul/24 9:16 PM,15/Mar/24 1:38 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""Personal Center"" page click on ""My assets"" section.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@60b2598f,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzy,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_71202281_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:38 PM
+Verify if user can use coupons from “my assets” section.,MAG-29,16577,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 5:06 PM,23/Apr/24 1:08 PM,12/Jul/24 9:16 PM,15/Mar/24 1:11 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""My account"" section click on ""Manage my account""",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6f7687b1,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzx,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_72297103_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:11 PM
+Verify if user can download his information from the “Manage my account”section,MAG-28,16576,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 4:49 PM,23/Apr/24 1:06 PM,12/Jul/24 9:16 PM,15/Mar/24 1:11 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""My account"" section click on ""Manage my account""",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a8b258d,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzv,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_73280372_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:11 PM
+Verify if user can change password from the “Manage my account”section.,MAG-27,16575,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 4:37 PM,23/Apr/24 12:59 PM,12/Jul/24 9:16 PM,15/Mar/24 1:10 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""My account"" section click on ""Manage my account""",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@ff14f88,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzr,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_73978626_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:10 PM
+Verify if user can add phone number from the “Manage my account”section.,MAG-26,16574,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 4:17 PM,23/Apr/24 12:56 PM,12/Jul/24 9:16 PM,15/Mar/24 1:10 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""My account"" section click on ""Manage my account"".",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@30575e62,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azzi,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_75203185_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:10 PM
+Verify if user can verify  the email from the “Manage my account” section,MAG-25,16572,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 4:06 PM,23/Apr/24 12:56 PM,12/Jul/24 9:16 PM,15/Mar/24 1:10 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""My account"" section click on ""Manage my account"".",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@25dbf9e8,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azz,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_75826993_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:10 PM
+Verify if user can change the email from the “Manage my account “ section.,MAG-24,16571,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 3:26 PM,23/Apr/24 12:52 PM,12/Jul/24 9:16 PM,15/Mar/24 1:10 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+Click on the ""Sign In/Register "" icon located in upper right corner of the page to navigate to the user login page.
+
+On ""My account"" section click on ""Manage my account"".",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@9d2a714,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azy,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_78220126_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:10 PM
+"Verify if user can access ""manage my account"" section.",MAG-23,16570,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 3:22 PM,23/Apr/24 12:51 PM,12/Jul/24 9:16 PM,15/Mar/24 1:09 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2287d4f9,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azx,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_78437864_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:09 PM
+Verify if user can add body measurements.,MAG-22,16569,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 2:55 PM,23/Apr/24 12:32 PM,12/Jul/24 9:16 PM,15/Mar/24 1:09 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@76ed5f89,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azv,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_80059139_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:09 PM
+Verify if the platform supports social login via Facebook.,MAG-21,16529,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,14/Mar/24 11:44 AM,23/Apr/24 12:18 PM,12/Jul/24 8:51 PM,14/Mar/24 4:21 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-3,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3db1b2c1,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03aw,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_16658663_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:21 PM
+Verify if the platform supports social login via Google.,MAG-20,16468,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,13/Mar/24 3:06 PM,23/Apr/24 12:18 PM,12/Jul/24 9:16 PM,14/Mar/24 4:21 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-3,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@67704414,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03at,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_90903222_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:21 PM
+Verify if user can use  manual logout.,MAG-19,16465,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,13/Mar/24 2:39 PM,23/Apr/24 12:15 PM,12/Jul/24 8:51 PM,14/Mar/24 4:21 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-3,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@13534b87,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03am,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_92514359_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:21 PM
+"Verify persistence of login state across sessions when ""Remember Me"" option is selected.",MAG-18,16460,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,13/Mar/24 2:25 PM,23/Apr/24 12:20 PM,12/Jul/24 9:16 PM,14/Mar/24 4:21 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-3,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5cfbda9d,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03a9,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_93371859_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:21 PM
+Verify if system provides error message after multiple failed attempts.,MAG-17,16457,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,13/Mar/24 2:10 PM,23/Apr/24 12:20 PM,12/Jul/24 8:51 PM,14/Mar/24 4:21 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-3,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5a1f505c,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03a4,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_94258574_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:21 PM
+Verify if user can log in with correct email/username and password.,MAG-16,16456,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,13/Mar/24 1:56 PM,23/Apr/24 12:20 PM,12/Jul/24 8:51 PM,14/Mar/24 4:21 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-3,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5d1a23f5,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03a,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_95049672_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:21 PM
+Verify if user can deactivate the account.,MAG-13,16428,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:37 PM,23/Apr/24 12:19 PM,12/Jul/24 9:16 PM,14/Mar/24 4:18 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,MAG-15,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1f3a0cd5,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:0389,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_160908059_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:18 PM
+Verify is system enforces password strength requirements.,MAG-12,16427,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:36 PM,23/Apr/24 12:19 PM,12/Jul/24 9:16 PM,14/Mar/24 4:18 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5ad8152e,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:038,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_160951231_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:18 PM
+Verify if all required fields are filled during registration.,MAG-11,16426,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:35 PM,23/Apr/24 12:18 PM,12/Jul/24 9:16 PM,14/Mar/24 4:18 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7848217a,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:035,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_160993306_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:18 PM
+Verify if system prevents registration with an email already in use.,MAG-10,16425,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:34 PM,23/Apr/24 12:18 PM,12/Jul/24 9:16 PM,14/Mar/24 4:22 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,MAG-14,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2b91a64e,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:032,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_242000_*|*_10000_*:*_1_*:*_161013606_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:22 PM
+Verify is system rejects invalid email formats during registration.,MAG-9,16424,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:33 PM,23/Apr/24 12:18 PM,12/Jul/24 8:50 PM,14/Mar/24 4:18 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] 
+
+The user is not logged in.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7dc7b75f,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_161086498_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:18 PM
+Verify if user can successfully register with unique email and password.,MAG-8,16423,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:32 PM,23/Apr/24 11:05 AM,12/Jul/24 8:50 PM,14/Mar/24 4:18 PM,,0,"Preconditions:
+
+Access the shein website : 
+
+[https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-2,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@55fa45a,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:02,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_161138003_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,14/Mar/24 4:18 PM
+Verify if user can add personal address ,MAG-7,16422,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:29 PM,23/Apr/24 12:23 PM,12/Jul/24 9:16 PM,15/Mar/24 1:09 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@cda24a9,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azr,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_236408572_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:09 PM
+Verify if user can update profile information(nickname) successfully.,MAG-6,16421,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:28 PM,23/Apr/24 12:23 PM,12/Jul/24 9:16 PM,15/Mar/24 1:09 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@39ad0040,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03azi,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_236452892_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:09 PM
+Verify if user can check & use SHEIN VIP section,MAG-5,16420,Test,Done,MAG,Mihăilă_Alexandra_Georgiana_ST1,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,Done,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,12/Mar/24 7:27 PM,23/Apr/24 12:22 PM,12/Jul/24 9:16 PM,15/Mar/24 1:09 PM,,0,"Preconditions:
+
+Access the Shein website : [https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|https://euqs.shein.com/?ref=www&rep=dir&ret=euqs|smart-link] ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,,MAG-4,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@711516c4,,,,,,,,,,,,MAG-1,Shein Account management,,,,,,,,,,,,,,,,0|i00xpv:03az,,,,,,,,,,MAG Sprint 1,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_236486405_*|*_10001_*:*_1_*:*_0,16416,Shein Account management,Done,15/Mar/24 1:09 PM
