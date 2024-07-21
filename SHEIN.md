@@ -107,7 +107,6 @@ The plan identifies the items to be tested, the features to be tested, the types
 <ul>
   <li>Data Integrity Issues: Risks related to data integrity, including data corruption or loss, may occur during account management operations such as profile updates or password changes.</li>
   <li>Security Vulnerabilities: There is a risk of security vulnerabilities such as data breaches, or unauthorized access to user information due to inadequate security measures or implementation flaws.</li>
-  <li>Security Vulnerabilities : Significant impact on your privacy and security. </li>
   <li>Fraud or phishing: Financial losses or compromising the user's security. </li>
   <li>Failures in the site's security system: Exposure of users' personal data and potential financial or privacy losses. </li>
   <li>Misuse of personal data : Exposure to additional security and privacy risks. </li>
